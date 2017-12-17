@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javafxapplication7;
+package pVideo;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -30,7 +30,7 @@ import javafx.beans.value.ObservableValue;
  *
  * @author PowerUser
  */
-public class JavaFXApplication7 extends Application {
+public class Class_pVideo extends Application {
      Button b1 = new Button("pLay");
       Button b2 = new Button("pAuse");
       Button b3 = new Button("oPen");
